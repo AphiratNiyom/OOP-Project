@@ -1,12 +1,12 @@
 # OOP-Project
 
-# space invader
+# Password Generator
 # author: 
   * id: 66114540841
   * name: Aphirat Niyom
-# technology: pygame
+# technology: streamlit
 # application description: 
-เป็นเกมแนวตั้งรับการโจมตีจากศัตรู โดยเราสามารถเคลื่อนที่ซ้ายขวาได้ หากเรากำจัดศัตรูได้เราจะได้แต้ม(score) เมื่อเราสามารถกำจัดศัตนูได้มากขึ้นเกมจะเร็วขึ้นเรื่อยๆทำให้ศัตรูมีจำนวณมากขึ้น
+เป็น website สำหรับสร้าง password แบบสุ่มขึ้นมา โดยเราสามารถกำหนดความยาวของรหัสได้ และเลือกว่าจะให้มีอักษรพิเศษและตัวเลขได้ด้วยหรือไม่
 # presentation: [slide/canva/etc..] link [public/ubu]
 # video: link [public/ubu]
   
