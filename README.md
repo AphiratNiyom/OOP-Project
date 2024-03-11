@@ -1,6 +1,6 @@
 # OOP-Project
 
-# Password Generator
+# Website Password Generator
 # author: 
   * id: 66114540841
   * name: Aphirat Niyom
